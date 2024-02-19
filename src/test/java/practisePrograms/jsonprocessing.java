@@ -1,3 +1,5 @@
+package practisePrograms;
+
 import java.util.ArrayList;
 import java.util.List;
 import io.restassured.RestAssured;

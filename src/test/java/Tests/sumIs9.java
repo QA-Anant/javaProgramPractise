@@ -1,3 +1,5 @@
+package Tests;
+
 public class sumIs9 {
     public static void main(String[] args) {
 

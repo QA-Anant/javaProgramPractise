@@ -1,3 +1,5 @@
+package practisePrograms;
+
 public class findTwoMaxValue {
     public void GetTwoMaxValues(int[] nums) {
 

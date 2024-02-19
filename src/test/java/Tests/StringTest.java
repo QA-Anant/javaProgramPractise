@@ -1,3 +1,5 @@
+package Tests;
+
 /*
 * Given two input String A and B. Return True if B is a Substring of A. provided A is a circular String
 Eg.1: A="qwerty" and B="erty" output = true

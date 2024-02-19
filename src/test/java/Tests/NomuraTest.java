@@ -1,3 +1,5 @@
+package Tests;
+
 import groovy.lang.GString;
 
 import java.util.HashMap;

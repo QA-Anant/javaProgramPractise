@@ -1,3 +1,5 @@
+package practisePrograms;
+
 import java.util.Arrays;
 
 public class revArray {
